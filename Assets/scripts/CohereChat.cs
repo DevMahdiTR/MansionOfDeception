@@ -5,8 +5,6 @@ using System.Net.Http.Headers;
 using System.Net.Http;
 using UnityEngine;
 using System.Net.Http.Headers;
-using UnityEditor.PackageManager.Requests;
-using UnityEditor.PackageManager;
 using System.Threading.Tasks;
 using TMPro;
 
